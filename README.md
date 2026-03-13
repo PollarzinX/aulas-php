@@ -17,4 +17,4 @@ O repositório contém resoluções de desafios técnicos e pequenos projetos, c
 1. Tenha um servidor local instalado (XAMPP, WAMP ou PHP CLI).
 2. Clone o repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/Exercicio-PHP.git](https://github.com/seu-usuario/Exercicio-PHP.git)
+   git clone https://github.com/PollarzinX/aulas-php.git
